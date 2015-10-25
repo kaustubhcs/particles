@@ -33,7 +33,7 @@ var renderer = new THREE.WebGLRenderer({
     alpha: false,
     depth: true,
     stencil: false,
-    
+
 });
 renderer.setSize( window.innerWidth, window.innerHeight );
 
@@ -50,6 +50,7 @@ var camera = new THREE.PerspectiveCamera(45, window.innerWidth/window.innerHeigh
 camera.position.z = 5;
 
 var material = new THREE.MeshBasicMaterial( { color: 0xff0000, wireframe: true } );
+
 
 // scene.add(new THREE.Mesh(
 //     new THREE.SphereGeometry(1),
