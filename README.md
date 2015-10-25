@@ -1,6 +1,6 @@
 # Particles
 
-Try it out [HERE](http://kaustubhcs.github.io/particles/ "~KTB Particles")
+# Try it out [HERE](http://kaustubhcs.github.io/particles/ "~KTB Particles")
 
 ## Petals
 ![Petals](https://cloud.githubusercontent.com/assets/7969023/10714492/da29951a-7b17-11e5-815b-318575b5ead4.png)
