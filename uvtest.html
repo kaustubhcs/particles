@@ -51,6 +51,8 @@ var uvAnim = new UVMapAnimator(renderer, 512);
 var copyPass = new ShaderPass(THREE.CopyShader);
 copyPass.material.uniforms.tDiffuse.value = uvAnim.target;
 
+
+
 var _mesh;
 var _loader = new THREE.JSONLoader( true );
 _loader.load(url, function(geometry) {
